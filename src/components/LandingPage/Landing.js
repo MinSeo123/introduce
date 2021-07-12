@@ -6,8 +6,9 @@ import styled from 'styled-components';
 function Landing() {
     return (
         <HomeLanding>
-            <Carousel /> 
-           
+            
+                <Carousel /> 
+            
         </HomeLanding>
     )
 }
@@ -18,5 +19,5 @@ export default Landing
 const HomeLanding = styled.div`
         display: flex;
         flex-direction: column;
-        
+        margin-bottom: 350px;
 `;
