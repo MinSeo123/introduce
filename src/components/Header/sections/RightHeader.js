@@ -1,9 +1,12 @@
 import React from 'react'
+import Menu from "./HeaderMenu";
+
+
 
 function RightHeader() {
     return (
         <div>
-            MENU
+            <Menu/>
         </div>
     )
 }

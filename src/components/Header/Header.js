@@ -4,6 +4,7 @@ import LeftHeader from "./sections/LeftHeader";
 import MiddleHeader from "./sections/MiddleHeader";
 import RightHeader from "./sections/RightHeader";
 
+
 function Header() {
     return (
         <HeaderComponent>
