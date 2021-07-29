@@ -6,6 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Contact from "./components/ContactPage/Contact";
 import Detail from "./components/DetailPage/Detail";
 import styled from "styled-components";
+import Project from "./components/ProjectPage/Project";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/" component={Landing} />
         <Route path="/contact" component={Contact}/>
         <Route path="/detail" component={Detail}/>
+        <Route path="/project" component={Project}/>
 
       </div>
 

@@ -15,6 +15,11 @@ function HeaderMenu() {
               Contact
             </a>
           </Menu.Item>
+          <Menu.Item>
+            <a href="/project">
+              Project
+            </a>
+          </Menu.Item>
         </Menu>
       );
     return (

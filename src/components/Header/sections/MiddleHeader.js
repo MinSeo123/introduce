@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function MiddleHeader() {
     return (
         <div>
-            <TitleText href="/">Title</TitleText>
+            <TitleText href="/">MinSeo's WebPage</TitleText>
         </div>
     )
 }

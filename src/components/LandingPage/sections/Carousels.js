@@ -17,10 +17,7 @@ function Carousels() {
                 <h1 style={contentStyle}>Hi, Welcome to My Page</h1>
             </div>
             <div>
-                <h3 style={contentStyle}>2</h3>
-            </div>
-            <div>
-                <h3 style={contentStyle}>3</h3>
+                <h2 style={contentStyle}>My Name Is MinSeo</h2>
             </div>
         </Carousel>
         

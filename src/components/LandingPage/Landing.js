@@ -8,6 +8,7 @@ function Landing() {
         <HomeLanding>
             
                 <Carousel /> 
+                <Msg> I'm Studying React-native , React , nodeJS, Go, Solidity... </Msg>
             
         </HomeLanding>
     )
@@ -21,3 +22,8 @@ const HomeLanding = styled.div`
         flex-direction: column;
         margin-bottom: 350px;
 `;
+
+const Msg = styled.h1`
+        text-align: center;
+        color: red;
+`
